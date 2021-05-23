@@ -1,0 +1,2 @@
+# NGROK_AUTH_TOKEN
+./ngrok authtoken 1svEbcb4CQa3JhKp6MhfnOmFYjf_66MWLYTGyYrk43v1dQ2Ko
